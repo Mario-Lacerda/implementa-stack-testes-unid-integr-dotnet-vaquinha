@@ -1,6 +1,7 @@
 # Desafio Dio - Implementando sua stack de testes de unidade e integrados em um projeto .NET de Crowdfunding
 
 
+
 Para este projeto, vamos usar o Visual Studio 2019 com o pacote NuGet do NUnit.
 
 **Criar um novo projeto .NET Core**
